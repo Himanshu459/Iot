@@ -1,2 +1,2 @@
 # Iot
-We perform practical here!
+Here we perform practicals!
